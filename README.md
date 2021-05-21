@@ -12,27 +12,21 @@
 [<img alt="Vuetify" title="Vuetify" src="https://shields.io/badge/Vuetify-1867C0?logo=Vuetify&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="React" title="React" src="https://shields.io/badge/React-61DAFB?logo=React&style=for-the-badge&logoColor=black" />]('https://www.mzdev.me/')
 [<img alt="AngularJS" title="AngularJS" src="https://shields.io/badge/AngularJS-E23237?logo=AngularJS&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
-
 [<img alt="Laravel" title="Laravel" src="https://shields.io/badge/Laravel-FF2D20?logo=Laravel&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Django" title="Django" src="https://shields.io/badge/Django-092E20?logo=Django&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
-
 [<img alt="Docker" title="Docker" src="https://shields.io/badge/Docker-2496ED?logo=Docker&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Kubernetes" title="Kubernetes" src="https://shields.io/badge/Kubernetes-326CE5?logo=Kubernetes&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
-
 [<img alt="Node.js" title="Node.js" src="https://shields.io/badge/Node.js-339933?logo=node-dot-js&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Gulp" title="Gulp" src="https://shields.io/badge/Gulp-CF4647?logo=Gulp&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Webpack" title="Webpack" src="https://shields.io/badge/Webpack-8DD6F9?logo=Webpack&style=for-the-badge&logoColor=black" />]('https://www.mzdev.me/')
 [<img alt="Javascript" title="Javascript" src="https://shields.io/badge/Javascript-F7DF1E?logo=Javascript&style=for-the-badge&logoColor=black" />]('https://www.mzdev.me/')
-
 [<img alt="PHP" title="PHP" src="https://shields.io/badge/PHP-777BB4?logo=PHP&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Python" title="Python" src="https://shields.io/badge/Python-3776AB?logo=Python&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Java" title="Java" src="https://shields.io/badge/Java-007396?logo=Java&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
-
 [<img alt="MongoDB" title="MongoDB" src="https://shields.io/badge/MongoDB-47A248?logo=MongoDB&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="MySQL" title="MySQL" src="https://shields.io/badge/MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="PostgreSQL" title="PostgreSQL" src="https://shields.io/badge/PostgreSQL-336791?logo=PostgreSQL&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="MariaDB" title="MariaDB" src="https://shields.io/badge/MariaDB-003545?logo=MariaDB&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
-
 ## Ferramentas & Outros Amores
 [<img alt="VSCODE" title="VSCODE" src="https://shields.io/badge/Visual%20Studio Code-007ACC?logo=Visual%20Studio%20Code&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Pycharm" title="Pycharm" src="https://shields.io/badge/Pycharm-000000?logo=Pycharm&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
@@ -42,7 +36,6 @@
 [<img alt="Manjaro" title="Manjaro" src="https://shields.io/badge/Manjaro-Melhor_Distro_EVER!-35BF5C?logo=Manjaro&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Fedora" title="Fedora" src="https://shields.io/badge/Fedora-Melhor,_Bem_Melhor_que_o_UBUNTU!-294172?logo=Fedora&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="EditoConfig" title="EditoConfig" src="https://shields.io/badge/EditorConfig-FEFEFE?logo=EditorConfig&style=for-the-badge&logoColor=black" />]('https://www.mzdev.me/')
-
 ## Lista de Desejos (Que vou aprender em breve)!
 [<img alt="Fedora" title="Fedora" src="https://shields.io/badge/Kotlin-0095D5?logo=Kotlin&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="R" title="R" src="https://shields.io/badge/R-276DC3?logo=R&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
