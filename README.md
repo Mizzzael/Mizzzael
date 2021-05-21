@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 -->
 <img style="margin: 10px auto;display: block; width: 20%;" alt="HTML5" title="HTML5" src="https://raw.githubusercontent.com/Mizzzael/Mizzzael/main/bye.svg" />
 
-[phone]: tel:+55114540-2949
+[phone]: https://api.whatsapp.com/send?phone=5511945402649
 [twitter]: https://twitter.com/ScottSolomo
 [facebook]: https://www.facebook.com/mizzzael1/
 [site]: https://www.mzdev.me/
