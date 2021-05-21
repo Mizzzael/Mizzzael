@@ -47,7 +47,7 @@
 [<img alt="Fedora" title="Fedora" src="https://shields.io/badge/Kotlin-0095D5?logo=Kotlin&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="R" title="R" src="https://shields.io/badge/R-276DC3?logo=R&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Ruby" title="Ruby" src="https://shields.io/badge/Ruby-CC342D?logo=Ruby&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
-[<img alt="Ruby on Rails" title="Ruby on Rails" src="https://shields.io/badge/Ruby on Rails-CC342D?logo=Ruby on Rails&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
+[<img alt="Ruby on Rails" title="Ruby on Rails" src="https://shields.io/badge/Ruby%20on%20Rails-CC342D?logo=Ruby%20on%20Rails&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Clojure" title="Clojure" src="https://shields.io/badge/Clojure-5881D8?logo=Clojure&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 [<img alt="Flutter" title="Flutter" src="https://shields.io/badge/Flutter-02569B?logo=Flutter&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 
