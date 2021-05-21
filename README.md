@@ -45,8 +45,8 @@
 [<img alt="Flutter" title="Flutter" src="https://shields.io/badge/Flutter-02569B?logo=Flutter&style=for-the-badge&logoColor=white" />]('https://www.mzdev.me/')
 
 ## Fale Comigo 📫
-[<img alt="Facebook" title="Facebook" src="https://shields.io/badge/Facebook-1877F2?logo=Facebook&style=for-the-badge&logoColor=white" />](facebook)
-[<img alt="twitter" title="twitter" src="https://shields.io/badge/twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" />](twitter)
+[<img alt="Facebook" title="Facebook" src="https://shields.io/badge/Facebook-1877F2?logo=Facebook&style=for-the-badge&logoColor=white" />]('https://www.facebook.com/mizzzael1/')
+[<img alt="twitter" title="twitter" src="https://shields.io/badge/twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" />][twitter]
 [<img alt="whatsapp" title="whatsapp" src="https://shields.io/badge/whatsapp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white" />](tel:+55114540-2949)
 
 <!--
